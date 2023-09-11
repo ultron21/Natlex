@@ -1,6 +1,7 @@
 # Natlex
 The project is an autotests using: Java, Selenide, JUnit 5, Gradle.
-
+This is a dedicated site for testing - https://mejuri.com/world/en/ You should develop autotests for the product catalog page. The user is supposed to login, then to find the product Honey Mini Signet in the catalog of rings and add it to favorites in
+the shopping cart.Add your autotest project to the GitHub repository and add a link to the answer e-mail.
 
 The core of the library. Main methods are open, $ and $$ (import static com.codeborne.selenide.Selenide.* for readability):
 import org.junit.jupiter.api.Test;
